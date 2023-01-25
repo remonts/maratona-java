@@ -5,7 +5,8 @@ public class Aula08ArraysMultidimensionais01 {
         // 1,2,3,4,5 meses
         // 31,28,31,30 dias
 
-        int[][] dias = new int[3][3];
+        int[][] dias = new int[3][];
+
         dias[0][0] = 31;
         dias[0][1] = 28;
         dias[0][2] = 31;
