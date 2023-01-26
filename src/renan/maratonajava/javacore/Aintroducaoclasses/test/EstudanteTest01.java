@@ -1,6 +1,6 @@
-package renan.maratonajava.javacore.introducaoclasses.test;
+package renan.maratonajava.javacore.Aintroducaoclasses.test;
 
-import renan.maratonajava.javacore.introducaoclasses.dominio.Estudante;
+import renan.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {
