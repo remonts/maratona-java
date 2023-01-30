@@ -1,6 +1,6 @@
-package renan.maratonajava.javacore.Bintroducaoclasses.test;
+package renan.maratonajava.javacore.Bintroducaometodos.test;
 
-import renan.maratonajava.javacore.Bintroducaoclasses.dominio.Calculadora;
+import renan.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
 
 public class CalculadoraTest01 {
     public static void main(String[] args) {

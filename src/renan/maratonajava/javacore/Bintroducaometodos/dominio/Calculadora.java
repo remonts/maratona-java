@@ -1,4 +1,4 @@
-package renan.maratonajava.javacore.Bintroducaoclasses.dominio;
+package renan.maratonajava.javacore.Bintroducaometodos.dominio;
 
 public class Calculadora {
 
