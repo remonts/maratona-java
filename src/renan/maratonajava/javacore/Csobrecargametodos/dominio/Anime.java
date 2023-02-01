@@ -1,7 +1,5 @@
 package renan.maratonajava.javacore.Csobrecargametodos.dominio;
 
-import java.security.PublicKey;
-
 public class Anime {
     private String nome;
     private String tipo;
