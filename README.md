@@ -1,2 +1,3 @@
-# maratona-java
-Maratona Java Dev Dojo.
+# Maratona Java
+
+Exercícios da Maratona Java Dev Dojo.
