@@ -1,5 +1,6 @@
 package renan.maratonajava.javacore.Gassociacao.test;
 
+
 import renan.maratonajava.javacore.Gassociacao.dominio.Escola;
 import renan.maratonajava.javacore.Gassociacao.dominio.Professor;
 
