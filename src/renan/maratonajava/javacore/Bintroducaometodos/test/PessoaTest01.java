@@ -1,5 +1,6 @@
 package renan.maratonajava.javacore.Bintroducaometodos.test;
 
+
 import renan.maratonajava.javacore.Bintroducaometodos.dominio.Pessoa;
 
 public class PessoaTest01 {
@@ -9,8 +10,6 @@ public class PessoaTest01 {
         pessoa.setNome("Jiraya");
         pessoa.setIdade(70);
 
-//        System.out.println(pessoa.getNome());
-//        System.out.println(pessoa.getIdade());
         pessoa.imprime();
     }
 }
